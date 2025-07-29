@@ -1,6 +1,4 @@
-Got it! Here’s your updated README with badges added at the top for React, Flask, SQLite, and MIT License:
 
-```markdown
 # 🏥 Medical Management System
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
